@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\bin\Debug\net5.0\StringManipulation1.exe
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\bin\Debug\net5.0\StringManipulation1.deps.json
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\bin\Debug\net5.0\StringManipulation1.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\bin\Debug\net5.0\StringManipulation1.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\bin\Debug\net5.0\StringManipulation1.dll
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\bin\Debug\net5.0\ref\StringManipulation1.dll
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\bin\Debug\net5.0\StringManipulation1.pdb
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.dll
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\ref\StringManipulation1.dll
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.pdb
+C:\Users\ADMIN\Desktop\Exercise4\StringManipulation1\obj\Debug\net5.0\StringManipulation1.genruntimeconfig.cache

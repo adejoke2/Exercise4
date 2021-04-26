@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Exercise4\Array2\bin\Debug\net5.0\Array2.exe
+C:\Users\ADMIN\Desktop\Exercise4\Array2\bin\Debug\net5.0\Array2.deps.json
+C:\Users\ADMIN\Desktop\Exercise4\Array2\bin\Debug\net5.0\Array2.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Exercise4\Array2\bin\Debug\net5.0\Array2.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Exercise4\Array2\bin\Debug\net5.0\Array2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Array2\bin\Debug\net5.0\ref\Array2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Array2\bin\Debug\net5.0\Array2.pdb
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\ref\Array2.dll
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.pdb
+C:\Users\ADMIN\Desktop\Exercise4\Array2\obj\Debug\net5.0\Array2.genruntimeconfig.cache
